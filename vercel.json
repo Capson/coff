@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "https://saajj.dorik.io/$1"
+    }
+  ]
+}
