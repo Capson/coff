@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "https://saajj.dorik.io/$1"
+      "dest": "https://reto.dorik.io/$1"
     }
   ]
 }
